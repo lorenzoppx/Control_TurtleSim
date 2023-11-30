@@ -18,4 +18,4 @@ Após o comando acima tartaruga irá se mover para a posição default goal esta
 ros2 topic pub /LPPX/goal turtlesim/msg/Pose "{x: 7.0, y: 7.0}"
 ```
 Demonstração:
-<img src="https://github.com/lorenzoppx/Control_TurtleSim/control.gif" width="300">
+<img src="https://github.com/lorenzoppx/Control_TurtleSim/blob/main/control.gif" width="300">
